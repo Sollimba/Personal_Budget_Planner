@@ -1,0 +1,180 @@
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe.config
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.pdb
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csprojAssemblyReference.cache
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Form1.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Properties.Resources.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.GenerateResource.cache
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.exe
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.pdb
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Articles.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.ArticlesEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.category.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.categoryEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMember.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMemberEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.FamilyMemberEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Family_member.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjet.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjetEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditOperations.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Operations.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Kredits.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.KreditsEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PaymentEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Payments.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Deposits.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.DepostEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TargetEdit.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Targets.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.ResolveComReference.cache
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.StatisticZatrat.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Zhurnal.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Auto.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditUser.resources
+J:\Фриланс\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Users.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.AssemblyReference.cache
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.SuggestedBindingRedirects.cache
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.exe
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.pdb
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe.config
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.pdb
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.ResolveComReference.cache
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Articles.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.ArticlesEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Auto.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.category.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.categoryEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Deposits.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.DepostEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditOperations.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditUser.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.FamilyMemberEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Family_member.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Form1.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Kredits.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.KreditsEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Operations.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PaymentEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Payments.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjet.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjetEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Properties.Resources.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.StatisticZatrat.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TargetEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Targets.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMember.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMemberEdit.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Users.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Zhurnal.resources
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.GenerateResource.cache
+D:\Фриланс\kursovik.com\Программирование\112243 - Семейный бюджет C# + MS SQL\Готовая работа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe.config
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.pdb
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csprojAssemblyReference.cache
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.ResolveComReference.cache
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Articles.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.ArticlesEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Auto.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.category.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.categoryEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Deposits.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.DepostEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditOperations.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditUser.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.FamilyMemberEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Family_member.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Form1.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Kredits.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.KreditsEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Operations.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PaymentEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Payments.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjet.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjetEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Properties.Resources.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.StatisticZatrat.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TargetEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Targets.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMember.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMemberEdit.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Users.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Zhurnal.resources
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.GenerateResource.cache
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Downloads\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.pdb
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe.config
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.pdb
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csprojAssemblyReference.cache
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.ResolveComReference.cache
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Articles.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.ArticlesEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Auto.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.category.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.categoryEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Deposits.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.DepostEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditOperations.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditUser.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.FamilyMemberEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Family_member.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Form1.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Kredits.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.KreditsEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Operations.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PaymentEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Payments.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjet.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjetEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Properties.Resources.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.StatisticZatrat.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TargetEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Targets.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMember.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMemberEdit.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Users.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Zhurnal.resources
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.GenerateResource.cache
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Desktop\101450288_155806\1.Программа\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.pdb
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe.config
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\bin\Debug\FamilyBudjet.pdb
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csprojAssemblyReference.cache
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.ResolveComReference.cache
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Articles.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.ArticlesEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Auto.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.category.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.categoryEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Deposits.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.DepostEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditOperations.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.EditUser.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.FamilyMemberEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Family_member.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Form1.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Kredits.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.KreditsEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Operations.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PaymentEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Payments.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjet.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.PlanBudjetEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Properties.Resources.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.StatisticZatrat.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TargetEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Targets.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMember.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.TypeFamilyMemberEdit.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Users.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.Zhurnal.resources
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.GenerateResource.cache
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.exe
+C:\Users\Kostya\Desktop\курсач\файл с программой\Программа\FamilyBudjet\FamilyBudjet\obj\Debug\FamilyBudjet.pdb

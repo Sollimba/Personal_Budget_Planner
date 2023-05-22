@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{581C1180-AE16-4F18-8BD7-3912F007644E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FamilyBudjet</RootNamespace>
+    <AssemblyName>FamilyBudjet</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articles.Designer.cs">
+      <DependentUpon>Articles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArticlesEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArticlesEdit.Designer.cs">
+      <DependentUpon>ArticlesEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Auto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auto.Designer.cs">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="category.Designer.cs">
+      <DependentUpon>category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="categoryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="categoryEdit.Designer.cs">
+      <DependentUpon>categoryEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseProcedure.cs" />
+    <Compile Include="Deposits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposits.Designer.cs">
+      <DependentUpon>Deposits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepostEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepostEdit.Designer.cs">
+      <DependentUpon>DepostEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditOperations.Designer.cs">
+      <DependentUpon>EditOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUser.Designer.cs">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FamilyMemberEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FamilyMemberEdit.Designer.cs">
+      <DependentUpon>FamilyMemberEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Family_member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Family_member.Designer.cs">
+      <DependentUpon>Family_member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kredits.Designer.cs">
+      <DependentUpon>Kredits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KreditsEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KreditsEdit.Designer.cs">
+      <DependentUpon>KreditsEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operations.Designer.cs">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentEdit.Designer.cs">
+      <DependentUpon>PaymentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments.Designer.cs">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlanBudjet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlanBudjet.Designer.cs">
+      <DependentUpon>PlanBudjet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlanBudjetEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlanBudjetEdit.Designer.cs">
+      <DependentUpon>PlanBudjetEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SemBudjetDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SemBudjetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Shifr.cs" />
+    <Compile Include="StatisticZatrat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticZatrat.Designer.cs">
+      <DependentUpon>StatisticZatrat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TargetEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TargetEdit.Designer.cs">
+      <DependentUpon>TargetEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Targets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Targets.Designer.cs">
+      <DependentUpon>Targets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeFamilyMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeFamilyMember.Designer.cs">
+      <DependentUpon>TypeFamilyMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeFamilyMemberEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeFamilyMemberEdit.Designer.cs">
+      <DependentUpon>TypeFamilyMemberEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhurnal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhurnal.Designer.cs">
+      <DependentUpon>Zhurnal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Articles.resx">
+      <DependentUpon>Articles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArticlesEdit.resx">
+      <DependentUpon>ArticlesEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auto.resx">
+      <DependentUpon>Auto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="category.resx">
+      <DependentUpon>category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="categoryEdit.resx">
+      <DependentUpon>categoryEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposits.resx">
+      <DependentUpon>Deposits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepostEdit.resx">
+      <DependentUpon>DepostEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditOperations.resx">
+      <DependentUpon>EditOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUser.resx">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FamilyMemberEdit.resx">
+      <DependentUpon>FamilyMemberEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Family_member.resx">
+      <DependentUpon>Family_member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kredits.resx">
+      <DependentUpon>Kredits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KreditsEdit.resx">
+      <DependentUpon>KreditsEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operations.resx">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentEdit.resx">
+      <DependentUpon>PaymentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlanBudjet.resx">
+      <DependentUpon>PlanBudjet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlanBudjetEdit.resx">
+      <DependentUpon>PlanBudjetEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StatisticZatrat.resx">
+      <DependentUpon>StatisticZatrat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TargetEdit.resx">
+      <DependentUpon>TargetEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Targets.resx">
+      <DependentUpon>Targets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeFamilyMember.resx">
+      <DependentUpon>TypeFamilyMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeFamilyMemberEdit.resx">
+      <DependentUpon>TypeFamilyMemberEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhurnal.resx">
+      <DependentUpon>Zhurnal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SemBudjetDataSet.xsc">
+      <DependentUpon>SemBudjetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SemBudjetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SemBudjetDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SemBudjetDataSet.xss">
+      <DependentUpon>SemBudjetDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0_4xTycKYcbzvg0nfc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Static.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_office_excel_logo_icon_145720.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
